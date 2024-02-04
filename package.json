@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "case": "file:../frontend_auto"
+  }
+}

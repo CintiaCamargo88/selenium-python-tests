@@ -1,0 +1,15 @@
+<testsuite name="listar_usuario.Listar usuario" tests="1" errors="0" failures="0" skipped="0" time="16.733797"><testcase classname="listar_usuario.Listar usuario" name="Listar usuario" status="passed" time="16.733797"><system-out>
+<![CDATA[
+@scenario.begin
+  Cenario: Listar usuario
+    Dado que visito a url "https://front.serverest.dev/login" ... passed in 2.274s
+    Quando insiro o email "automacao@teste.com" ... passed in 2.197s
+    E insiro a senha "123456" ... passed in 2.110s
+    E clico no botão Entrar ... passed in 1.077s
+    E aciono o botao listar ... passed in 6.065s
+    Entao o usuario "automacao@teste.com" e apresentado na lista ... passed in 3.012s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>

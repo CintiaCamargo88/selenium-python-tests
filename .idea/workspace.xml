@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c1c4116-7944-4dfc-ae7a-353e6dfb5b64" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/features/cadastro_usuario.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/listar_usuario.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/steps/listar_usuario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/case/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/TESTS-cadastro_usuario.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/TESTS-listar_usuario.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/bravomail.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/cadastro.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/cadastro_corporativo.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/cadastro_negativo.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/editar_cadastro_corporativo.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/environment.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/environment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/gmail.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/logout.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/recuperar_senha.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/sapomail.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/standby.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/standby/standby_features/bravomail.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/standby/standby_features/cadastro.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/standby/standby_features/cadastro_negativo.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/standby/standby_features/gmail.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/standby/standby_features/login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/standby/standby_features/recuperar_senha.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/standby/standby_features/sapomail.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/standby/standby_steps/bravomail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/standby/standby_steps/cadastro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/standby/standby_steps/cadastro_negativo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/standby/standby_steps/gmail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/standby/standby_steps/login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/standby/standby_steps/recuperar_senha.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/standby/standby_steps/sapomail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/bravomail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/cadastro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/cadastro_corporativo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/cadastro_negativo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/editar_cadastro_corporativo.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/steps/cadastro_usuario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/gmail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/steps/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/logout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/recuperar_senha.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/sapomail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/case/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/case/jsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/case/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/case/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/case/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/case/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/case/travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/case/travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-bravomail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-cadastro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-cadastro_corporativo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-cadastro_negativo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-gmail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/reports/TESTS-login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-logout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-recuperar_senha.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-sapomail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-standby.bravomail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-standby.cadastro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-standby.cadastro_negativo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-standby.gmail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-standby.login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-standby.recuperar_senha.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-standby.sapomail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-standby.standby_features.bravomail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-standby.standby_features.cadastro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-standby.standby_features.cadastro_negativo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-standby.standby_features.gmail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-standby.standby_features.login.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-standby.standby_features.recuperar_senha.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/TESTS-standby.standby_features.sapomail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2LSxAlNKMsEKPdfQQvg5HHlzvOB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.login.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/snow/dev/cadastro/features/steps&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/features/steps" />
+      <recent name="$PROJECT_DIR$/features" />
+      <recent name="C:\Users\usuario_snow\Documents\scripts_python\eve\features" />
+      <recent name="C:\Users\usuario_snow\Documents\scripts_python\eve\features\steps" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/features/standby/standby_steps" />
+      <recent name="$PROJECT_DIR$/features/standby/standby_features" />
+      <recent name="$PROJECT_DIR$/features/standby" />
+      <recent name="$PROJECT_DIR$/reports" />
+      <recent name="C:\Users\usuario_snow\Documents\scripts_python\eve\features" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="automacao" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/features/steps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features/steps/login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c1c4116-7944-4dfc-ae7a-353e6dfb5b64" name="Changes" comment="" />
+      <created>1675878143553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675878143553</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/develop" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/features/standby/standby_steps/sapomail.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<testsuite name="cadastro_usuario.Efetuar cadastro" tests="1" errors="0" failures="0" skipped="1" time="0.0"><testcase classname="cadastro_usuario.Efetuar cadastro" name="Testes de cadastro" status="skipped" time="0"><skipped /><system-out>
+<![CDATA[
+@scenario.begin
+  Cenario: Testes de cadastro
+    Dado que acesso a url "https://front.serverest.dev/login" ... skipped in 0.000s
+    Quando aciono o link de cadastro ... skipped in 0.000s
+    E informo o campo nome "Automação" ... skipped in 0.000s
+    E informo o campo email "automacao@teste.com" ... skipped in 0.000s
+    E informo o campo senha "123456" ... skipped in 0.000s
+    E seleciono o check Cadastrar como administrador ... skipped in 0.000s
+    E aciono o botão Cadastrar ... skipped in 0.000s
+    Entao o sistema apresenta as boas vindas para "Automação" ... skipped in 0.000s
+
+@scenario.end
+--------------------------------------------------------------------------------
+]]>
+</system-out></testcase></testsuite>
