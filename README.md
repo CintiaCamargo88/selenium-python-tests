@@ -1,5 +1,3 @@
-# serverest-tests
-Automação de um sistema Ecommerce em Python para Estudos.
 # Selenium-Python-Tests
 
 Estudos voltados para automação de teste Web com o uso do framework Selenium com linguagem Python. Os exemplos deste repositório são executados no ambiente voltado para testes chamado Severest.
