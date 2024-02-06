@@ -1,6 +1,6 @@
 # Selenium-Python-Tests
 
-Estudos voltados para automação de teste Web com o uso do framework Selenium com linguagem Python. Os exemplos deste repositório são executados no ambiente voltado para testes chamado Severest.
+Estudos voltados para automação de teste Web com o uso do framework Selenium com linguagem Python. Os exemplos deste repositório são executados no ambiente voltado para testes chamado [Severest](https://front.serverest.dev/admin/home).
 
 Neste projeto é utilizado:
 
