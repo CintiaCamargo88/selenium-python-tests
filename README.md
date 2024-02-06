@@ -20,7 +20,7 @@ Steps:
 
     Clone o repositório:
 
-    git clone (https://github.com/CintiaCamargo88/selenium-python-tests.git)
+    git clone [https://github.com/CintiaCamargo88/selenium-python-tests.git](https://github.com/CintiaCamargo88/selenium-python-tests.git)
 
     Importe na sua IDE de preferência.
 
